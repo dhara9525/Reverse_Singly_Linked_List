@@ -1,5 +1,6 @@
 
 Source of description: Leetcode
+Submission Detail: 27 / 27 test cases passed.
 Program :Reverse a singly linked list.
 
 Example:
